@@ -4,11 +4,16 @@
 
 ## TODO v1.0
 
-- [ ] todo
+- [ ] about us section
+- [ ] about us page
+- [ ] how does it work
+- [ ] call to action
+- [ ] contact
+- [ ] footer
 
 ## TODO v1.1
 
-- [ ] todo
+- [ ] cms
 
 ## BACKLOG
 
