@@ -25,3 +25,4 @@
 - [x] favicon
 - [x] logo
 - [x] header background
+- [x] logo margin
