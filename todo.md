@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] google console
 - [ ] center logo
 - [ ] about us section
 - [ ] about us page
@@ -28,3 +27,4 @@
 - [x] logo
 - [x] header background
 - [x] logo margin
+- [x] google console
