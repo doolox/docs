@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] sitemap.xml
 - [ ] about us page
 - [ ] how does it work
 - [ ] call to action
