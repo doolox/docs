@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] setup email
 - [ ] about us page
 - [ ] pricing
 - [ ] how does it work
