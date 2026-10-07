@@ -18,7 +18,7 @@
 
 ## BACKLOG
 
-- [ ] backlog
+- [ ] google console dns
 
 ## DONE v1.0
 
