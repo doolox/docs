@@ -5,6 +5,7 @@
 ## TODO v1.0
 
 - [ ] about us page
+- [ ] pricing
 - [ ] how does it work
 - [ ] call to action
 - [ ] contact
