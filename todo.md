@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] about us section
 - [ ] about us page
 - [ ] how does it work
 - [ ] call to action
@@ -31,3 +30,4 @@
 - [x] center logo
 - [x] google console dns
 - [x] umami analytics
+- [x] about us section
