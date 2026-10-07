@@ -30,3 +30,4 @@
 - [x] google console
 - [x] center logo
 - [x] google console dns
+- [x] umami analytics
