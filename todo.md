@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] sitemap.xml
 - [ ] about us page
 - [ ] how does it work
 - [ ] call to action
@@ -32,3 +31,4 @@
 - [x] google console dns
 - [x] umami analytics
 - [x] about us section
+- [x] sitemap.xml
