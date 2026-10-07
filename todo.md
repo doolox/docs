@@ -17,7 +17,7 @@
 
 ## BACKLOG
 
-- [ ] google console dns
+- [ ] backlog
 
 ## DONE v1.0
 
@@ -28,3 +28,4 @@
 - [x] logo margin
 - [x] google console
 - [x] center logo
+- [x] google console dns
