@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] center logo
 - [ ] about us section
 - [ ] about us page
 - [ ] how does it work
@@ -28,3 +27,4 @@
 - [x] header background
 - [x] logo margin
 - [x] google console
+- [x] center logo
