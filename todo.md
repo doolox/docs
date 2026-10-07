@@ -10,6 +10,7 @@
 - [ ] call to action
 - [ ] contact
 - [ ] footer
+- [ ] use CMS to build website
 
 ## TODO v1.1
 
