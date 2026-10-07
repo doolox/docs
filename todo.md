@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] center logo
 - [ ] about us section
 - [ ] about us page
 - [ ] how does it work
