@@ -5,13 +5,13 @@
 ## TODO v1.0
 
 - [ ] setup email
-- [ ] pricing
 - [ ] how does it work
 - [ ] call to action
 - [ ] contact
 - [ ] footer
 - [ ] use CMS to build website
 - [ ] link on nomadi
+- [ ] update about page
 
 ## TODO v1.1
 
@@ -35,3 +35,4 @@
 - [x] about us section
 - [x] sitemap.xml
 - [x] about us page
+- [x] pricing page
