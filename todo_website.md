@@ -12,6 +12,7 @@
 - [ ] use CMS to build website
 - [ ] link on nomadi
 - [ ] update about page
+- [ ] update pricing page
 
 ## TODO v1.1
 
