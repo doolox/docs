@@ -4,7 +4,7 @@
 
 ## TODO v1.0
 
-- [ ] todo
+- [ ] move golang code to subfolder
 
 ## TODO v1.1
 
