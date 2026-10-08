@@ -16,4 +16,4 @@
 
 ## DONE v1.0
 
-- [x] done
+- [x] using doolox on website
