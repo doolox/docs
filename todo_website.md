@@ -9,15 +9,13 @@
 - [ ] call to action
 - [ ] contact
 - [ ] footer
-- [ ] use CMS to build website
 - [ ] link on nomadi
-- [ ] update about page
-- [ ] update pricing page
 - [ ] doolox tg user
 
 ## TODO v1.1
 
-- [ ] cms
+- [ ] better update pricing page
+- [ ] better about page
 
 ## BACKLOG
 
@@ -38,3 +36,4 @@
 - [x] sitemap.xml
 - [x] about us page
 - [x] pricing page
+- [x] use CMS to build website
