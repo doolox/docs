@@ -37,3 +37,4 @@
 - [x] about us page
 - [x] pricing page
 - [x] use CMS to build website
+- [x] update pricing
