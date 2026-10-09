@@ -8,7 +8,7 @@
 
 ## TODO v1.1
 
-- [ ] todo
+- [ ] admin interface
 
 ## BACKLOG
 
