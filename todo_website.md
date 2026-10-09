@@ -13,6 +13,7 @@
 - [ ] link on nomadi
 - [ ] update about page
 - [ ] update pricing page
+- [ ] doolox tg user
 
 ## TODO v1.1
 
