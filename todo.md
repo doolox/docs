@@ -5,6 +5,8 @@
 ## TODO v1.0
 
 - [ ] generate shortcut
+- [ ] email obfuscate cloudflare
+- [ ] subfolders
 
 ## TODO v1.1
 
@@ -21,3 +23,4 @@
 - [x] move golang code to subfolder
 - [x] generate in docs
 - [x] generate sitemap.xml
+- [x] email obfuscate
