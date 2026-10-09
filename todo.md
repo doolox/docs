@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] move golang code to subfolder
 - [ ] generate
 
 ## TODO v1.1
@@ -18,3 +17,4 @@
 ## DONE v1.0
 
 - [x] using doolox on website
+- [x] move golang code to subfolder
