@@ -4,7 +4,7 @@
 
 ## TODO v1.0
 
-- [ ] generate
+- [ ] generate shortcut
 
 ## TODO v1.1
 
