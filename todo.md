@@ -18,3 +18,5 @@
 
 - [x] using doolox on website
 - [x] move golang code to subfolder
+- [x] generate in docs
+- [x] generate sitemap.xml
