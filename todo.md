@@ -9,6 +9,7 @@
 ## TODO v1.1
 
 - [ ] admin interface
+- [ ] cloudflare pages
 
 ## BACKLOG
 
