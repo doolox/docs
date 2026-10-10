@@ -6,7 +6,6 @@
 
 - [ ] multiple languages
 - [ ] generate shortcut
-- [ ] email obfuscate cloudflare
 - [ ] subfolders
 
 ## TODO v1.1
@@ -25,3 +24,4 @@
 - [x] generate in docs
 - [x] generate sitemap.xml
 - [x] email obfuscate
+- [x] email obfuscate cloudflare
