@@ -6,7 +6,7 @@
 
 - [ ] how does it work
 - [ ] call to action
-- [ ] contact
+- [ ] contact page
 - [ ] footer
 - [ ] link on nomadi
 - [ ] doolox tg user
