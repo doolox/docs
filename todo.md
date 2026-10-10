@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] multiple languages
 - [ ] generate shortcut
 - [ ] email obfuscate cloudflare
 - [ ] subfolders
