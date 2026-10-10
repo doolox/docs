@@ -8,7 +8,6 @@
 - [ ] how does it work
 - [ ] call to action
 - [ ] contact page
-- [ ] footer
 - [ ] link on nomadi
 - [ ] doolox tg user
 
@@ -40,3 +39,4 @@
 - [x] update pricing
 - [x] setup email
 - [x] email address fine tune
+- [x] finish footer
