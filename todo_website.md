@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] setup email
 - [ ] how does it work
 - [ ] call to action
 - [ ] contact
@@ -38,3 +37,4 @@
 - [x] pricing page
 - [x] use CMS to build website
 - [x] update pricing
+- [x] setup email
