@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] email address fine tune
 - [ ] how does it work
 - [ ] call to action
 - [ ] contact
@@ -39,3 +38,4 @@
 - [x] use CMS to build website
 - [x] update pricing
 - [x] setup email
+- [x] email address fine tune
