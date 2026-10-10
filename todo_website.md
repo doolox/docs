@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] email address fine tune
 - [ ] how does it work
 - [ ] call to action
 - [ ] contact
