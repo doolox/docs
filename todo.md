@@ -4,6 +4,9 @@
 
 ## TODO v1.0
 
+- [ ] tray icon
+- [ ] windows install
+- [ ] linux install
 - [ ] multiple languages
 - [ ] generate shortcut
 - [ ] subfolders
