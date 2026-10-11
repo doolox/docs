@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] tray icon
 - [ ] windows install
 - [ ] linux install
 - [ ] multiple languages
@@ -29,3 +28,4 @@
 - [x] email obfuscate
 - [x] email obfuscate cloudflare
 - [x] start building mailer
+- [x] tray icon
