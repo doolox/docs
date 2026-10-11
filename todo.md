@@ -25,3 +25,4 @@
 - [x] generate sitemap.xml
 - [x] email obfuscate
 - [x] email obfuscate cloudflare
+- [x] start building mailer
