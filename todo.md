@@ -30,3 +30,4 @@
 - [x] start building mailer
 - [x] tray icon
 - [x] generate tray button
+- [x] prepare virtualbox
