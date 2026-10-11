@@ -29,3 +29,4 @@
 - [x] email obfuscate cloudflare
 - [x] start building mailer
 - [x] tray icon
+- [x] generate tray button
