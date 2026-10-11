@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] prepare windows
 - [ ] windows install
 - [ ] linux install
 - [ ] multiple languages
