@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] prepare windows
 - [ ] windows install
 - [ ] linux install
 - [ ] multiple languages
@@ -32,3 +31,4 @@
 - [x] tray icon
 - [x] generate tray button
 - [x] prepare virtualbox
+- [x] prepare windows
