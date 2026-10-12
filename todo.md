@@ -4,8 +4,8 @@
 
 ## TODO v1.0
 
-- [ ] windows install
-- [ ] linux install
+- [ ] windows install package
+- [ ] linux install package
 - [ ] multiple languages
 - [ ] generate shortcut
 - [ ] subfolders
