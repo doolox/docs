@@ -12,7 +12,7 @@
 
 ## TODO v1.1
 
-- [ ] better update pricing page
+- [ ] better pricing page
 - [ ] better about page
 
 ## BACKLOG
