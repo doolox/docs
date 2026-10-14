@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] doolox link everywhere
 - [ ] header interested
 - [ ] how does it work
 - [ ] call to action
