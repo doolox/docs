@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] folders logic
 - [ ] multiple languages
 - [ ] generate shortcut
 - [ ] subfolders
