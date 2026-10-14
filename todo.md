@@ -33,3 +33,4 @@
 - [x] prepare windows
 - [x] windows install package
 - [x] linux install package
+- [x] github release action
