@@ -4,8 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] windows install package
-- [ ] linux install package
 - [ ] multiple languages
 - [ ] generate shortcut
 - [ ] subfolders
@@ -32,3 +30,5 @@
 - [x] generate tray button
 - [x] prepare virtualbox
 - [x] prepare windows
+- [x] windows install package
+- [x] linux install package
