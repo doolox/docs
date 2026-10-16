@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] 0.0.0.0 to localhost
 - [ ] folders logic
 - [ ] multiple languages
 - [ ] generate shortcut
@@ -35,3 +34,4 @@
 - [x] windows install package
 - [x] linux install package
 - [x] github release action
+- [x] 0.0.0.0 to localhost
