@@ -7,7 +7,7 @@
 - [ ] doolox link everywhere
 - [ ] header interested
 - [ ] how does it work
-- [ ] call to action
+- [ ] call to action (devs and clients)
 - [ ] contact page
 - [ ] doolox tg user
 
