@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] 0.0.0.0 to localhost
 - [ ] folders logic
 - [ ] multiple languages
 - [ ] generate shortcut
