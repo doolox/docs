@@ -5,6 +5,7 @@
 ## TODO v1.1
 
 - [ ] templates folder and repo
+- [ ] template colors
 - [ ] check config
 - [ ] admin interface
 - [ ] cloudflare pages
