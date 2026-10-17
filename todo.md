@@ -35,3 +35,4 @@
 - [x] linux install package
 - [x] github release action
 - [x] 0.0.0.0 to localhost
+- [x] move db and config to doolox folder
