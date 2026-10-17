@@ -35,3 +35,4 @@
 - [x] move db and config to doolox folder
 - [x] keyvalue model
 - [x] removed database
+- [x] ctrl+g generate shortcut
