@@ -4,8 +4,8 @@
 
 ## TODO v1.1
 
+- [ ] config per website
 - [ ] template colors
-- [ ] check config
 - [ ] admin interface
 - [ ] cloudflare pages
 - [ ] multiple languages
@@ -40,3 +40,4 @@
 - [x] open website when starting
 - [x] folders logic
 - [x] templates folder and repo
+- [x] check config
