@@ -4,6 +4,7 @@
 
 ## TODO v1.1
 
+- [ ] check config
 - [ ] admin interface
 - [ ] cloudflare pages
 - [ ] multiple languages
