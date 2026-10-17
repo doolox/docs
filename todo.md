@@ -8,7 +8,7 @@
 - [ ] cloudflare pages
 - [ ] multiple languages
 - [ ] generate shortcut
-- [ ] subfolders
+- [ ] subfolders logic
 
 ## BACKLOG
 
