@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] move website to separate repo
 - [ ] doolox link everywhere
 - [ ] header interested
 - [ ] how does it work
@@ -42,3 +41,4 @@
 - [x] email address fine tune
 - [x] finish footer
 - [x] link on nomadi
+- [x] move website to separate repo
