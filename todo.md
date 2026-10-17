@@ -36,3 +36,4 @@
 - [x] keyvalue model
 - [x] removed database
 - [x] ctrl+g generate shortcut
+- [x] open website when starting
