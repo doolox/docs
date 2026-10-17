@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] templates folder and repo
 - [ ] template colors
 - [ ] check config
 - [ ] admin interface
@@ -40,3 +39,4 @@
 - [x] ctrl+g generate shortcut
 - [x] open website when starting
 - [x] folders logic
+- [x] templates folder and repo
