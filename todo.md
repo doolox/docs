@@ -6,7 +6,6 @@
 
 - [ ] admin interface
 - [ ] cloudflare pages
-- [ ] folders logic
 - [ ] multiple languages
 - [ ] generate shortcut
 - [ ] subfolders
@@ -37,3 +36,4 @@
 - [x] removed database
 - [x] ctrl+g generate shortcut
 - [x] open website when starting
+- [x] folders logic
