@@ -2,17 +2,14 @@
 
 ## Doolox
 
-## TODO v1.0
-
-- [ ] folders logic
-- [ ] multiple languages
-- [ ] generate shortcut
-- [ ] subfolders
-
 ## TODO v1.1
 
 - [ ] admin interface
 - [ ] cloudflare pages
+- [ ] folders logic
+- [ ] multiple languages
+- [ ] generate shortcut
+- [ ] subfolders
 
 ## BACKLOG
 
@@ -37,3 +34,4 @@
 - [x] 0.0.0.0 to localhost
 - [x] move db and config to doolox folder
 - [x] keyvalue model
+- [x] removed database
