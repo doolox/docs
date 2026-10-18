@@ -42,3 +42,4 @@
 - [x] finish footer
 - [x] link on nomadi
 - [x] move website to separate repo
+- [x] start CMS part of website

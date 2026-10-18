@@ -4,6 +4,7 @@
 
 ## TODO v1.1
 
+- [ ] subfolder websites
 - [ ] config per website
 - [ ] template colors
 - [ ] admin interface
