@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] subfolder websites
 - [ ] config per website
 - [ ] template colors
 - [ ] admin interface
@@ -42,3 +41,4 @@
 - [x] folders logic
 - [x] templates folder and repo
 - [x] check config
+- [x] subfolder websites
