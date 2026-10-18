@@ -42,3 +42,4 @@
 - [x] templates folder and repo
 - [x] check config
 - [x] subfolder websites
+- [x] ctrl+p - publish
