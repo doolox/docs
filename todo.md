@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] config per website
 - [ ] template colors
 - [ ] admin interface
 - [ ] cloudflare pages
@@ -43,3 +42,4 @@
 - [x] check config
 - [x] subfolder websites
 - [x] ctrl+p - publish
+- [x] config per website
