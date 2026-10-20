@@ -4,7 +4,6 @@
 
 ## TODO v1.0
 
-- [ ] doolox link everywhere
 - [ ] header interested
 - [ ] how does it work
 - [ ] call to action (devs and clients)
@@ -43,3 +42,4 @@
 - [x] link on nomadi
 - [x] move website to separate repo
 - [x] start CMS part of website
+- [x] doolox link everywhere
