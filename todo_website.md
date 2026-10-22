@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] update favicon again
 - [ ] header interested
 - [ ] how does it work
 - [ ] call to action (devs and clients)
