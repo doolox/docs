@@ -4,6 +4,8 @@
 
 ## TODO v1.0
 
+- [ ] clients
+- [ ] clients strip
 - [ ] update favicon again
 - [ ] header interested
 - [ ] how does it work
