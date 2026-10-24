@@ -5,7 +5,6 @@
 ## TODO v1.0
 
 - [ ] clients
-- [ ] clients strip
 - [ ] update favicon again
 - [ ] header interested
 - [ ] how does it work
@@ -46,4 +45,4 @@
 - [x] move website to separate repo
 - [x] start CMS part of website
 - [x] doolox link everywhere
-- [x] top clients
+- [x] clients strip
