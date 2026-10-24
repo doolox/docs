@@ -10,7 +10,6 @@
 - [ ] header interested
 - [ ] how does it work
 - [ ] call to action (devs and clients)
-- [ ] doolox tg user
 
 ## TODO v1.1
 
@@ -47,3 +46,4 @@
 - [x] doolox link everywhere
 - [x] clients strip
 - [x] contact page
+- [x] doolox tg user
