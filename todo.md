@@ -4,6 +4,7 @@
 
 ## TODO v1.1
 
+- [ ] ctrl+p not publishing everything
 - [ ] template colors
 - [ ] admin interface
 - [ ] cloudflare pages
