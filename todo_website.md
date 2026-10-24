@@ -46,3 +46,4 @@
 - [x] move website to separate repo
 - [x] start CMS part of website
 - [x] doolox link everywhere
+- [x] top clients
