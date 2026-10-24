@@ -9,7 +9,6 @@
 - [ ] header interested
 - [ ] how does it work
 - [ ] call to action (devs and clients)
-- [ ] contact page
 - [ ] doolox tg user
 
 ## TODO v1.1
@@ -46,3 +45,4 @@
 - [x] start CMS part of website
 - [x] doolox link everywhere
 - [x] clients strip
+- [x] contact page
