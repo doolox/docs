@@ -4,6 +4,7 @@
 
 ## TODO v1.0
 
+- [ ] connect contact page
 - [ ] clients
 - [ ] update favicon again
 - [ ] header interested
