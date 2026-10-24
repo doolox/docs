@@ -4,7 +4,6 @@
 
 ## TODO v1.1
 
-- [ ] ctrl+p not publishing everything
 - [ ] template colors
 - [ ] admin interface
 - [ ] cloudflare pages
@@ -44,3 +43,4 @@
 - [x] subfolder websites
 - [x] ctrl+p - publish
 - [x] config per website
+- [x] ctrl+p not publishing everything
