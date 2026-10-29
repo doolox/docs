@@ -49,3 +49,4 @@
 - [x] doolox tg user
 - [x] x profile
 - [x] facebook page
+- [x] telegram group
