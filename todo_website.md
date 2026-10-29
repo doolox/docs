@@ -47,3 +47,4 @@
 - [x] clients strip
 - [x] contact page
 - [x] doolox tg user
+- [x] x profile
